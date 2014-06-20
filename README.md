@@ -1,3 +1,13 @@
+# What is this?
+This is code form a short workshop I attended in EVRY. 
+It contains the solution given in the workshop as well as me and my college solution.
+
+This code has no code review, and this is my first flask/python code :)
+
+The rest of this file is directly from the workshop.
+
+
+
 ## Hva trenger vi?
 * [Python](https://www.python.org/downloads)
 * [PIP](https://pip.pypa.io/en/latest/installing.html)
